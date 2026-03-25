@@ -49,3 +49,19 @@ prompt
 server.log
 # Skills directory
 /skills/
+
+# Database
+db/*.db
+db/*.db-journal
+
+# Local scripts
+.zscripts/
+
+# Upload folder (temporary files)
+upload/
+
+# Examples
+examples/
+
+# Caddy config
+Caddyfile
