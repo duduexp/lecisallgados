@@ -1,0 +1,9 @@
+{
+  "buildCommand": "bun run build",
+  "installCommand": "bun install",
+  "framework": "nextjs",
+  "regions": ["gru1"],
+  "env": {
+    "DATABASE_URL": "@database_url"
+  }
+}
